@@ -21,3 +21,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+paginate: 5
+paginate_path: "/posts/page:num/"
